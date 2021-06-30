@@ -1,0 +1,67 @@
+
+/* Needed-Css */
+img{
+    max-width: 100%;
+}
+/* Needed-Css End */
+
+/* Header-Section */
+
+/* Header-Section End */
+
+/* Buttom-Section */
+ .buttom-img{
+     width: 70%;
+ }
+/* Buttom-Section End */
+
+
+/* Number-Section */
+
+/* Number-Section End */
+
+/* Service-Section */
+.box-iteams {
+	background: white;
+	box-shadow: 2px 2px 12px;
+}
+.box-iteams p {
+	line-height: 3em;
+}
+/* Service-Section End */
+
+
+/* About-Section */
+.about-section{
+    background: white;
+}
+.about-img img {
+	width: 110px;
+	margin-left: 10px;
+}
+.about-captaion {
+	text-align: center;
+}
+.website-btn {
+	box-shadow: 2px 2px 6px;
+	display: inline-block;
+	text-align: center;
+}
+.about-box {
+	box-shadow: 2px 2px 10px;
+	/* padding: 16px; */
+}
+/* About-Section End */
+
+
+/* footer-section */
+.footer-section {
+	background: #04091e;
+	padding: 10;
+}
+.footer-section h4 {
+	text-align: center;
+	color: white;
+	text-transform: capitalize;
+}
+/* footer-section end */
